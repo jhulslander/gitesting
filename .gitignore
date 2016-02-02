@@ -1,0 +1,16 @@
+# Deployment
+target/
+
+# Unit Tests
+overlays/
+
+# Workspace junk
+.classpath
+.settings/
+*.iml
+.idea/
+
+# Other junk
+.DS_Store
+/bin/
+.project
